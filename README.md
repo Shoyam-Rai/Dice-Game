@@ -1,7 +1,6 @@
 # Dice-Game
 ![image](https://github.com/user-attachments/assets/13578f4a-0dd8-43b5-b407-22a988f8d3e8)
 
-Here's an elaborate GitHub introduction for your Dice Game project using HTML, CSS, and JavaScript:
 
 ---
 
